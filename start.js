@@ -12,8 +12,8 @@
             return {
                 x: random(0, window.innerWidth ),
                 y: window.innerHeight,
-                speedX: random(-20, 20),
-                speedY: random(3, 6)
+                speedX: random(-30, 30),
+                speedY: random(4, 8)
             };
         });
     }
